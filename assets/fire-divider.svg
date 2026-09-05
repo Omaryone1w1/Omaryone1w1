@@ -1,18 +1,18 @@
-<svg width="900" height="6" viewBox="0 0 900 6" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ff4500"/>
+      <stop offset="50%" stop-color="#7a1f1f"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffae00" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffd43b"/>
-      <stop offset="100%" stop-color="#ffae00" stop-opacity="0"/>
-    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="900" height="6" fill="url(#base)"/>
-  <rect width="150" height="6" fill="url(#glow)">
-    <animate attributeName="x" values="-150;900" dur="3s" repeatCount="indefinite"/>
-  </rect>
+  <rect width="1000" height="1.5" y="1.25" fill="url(#base)"/>
+  <ellipse cy="2" rx="45" ry="7" fill="url(#glow)">
+    <animate attributeName="cx" values="0;1000;0" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
 </svg>
