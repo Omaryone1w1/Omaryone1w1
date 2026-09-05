@@ -1,0 +1,28 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="450" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="34" fill="#eaeaea">Omar Mohamed Fathallah</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="28" fill="#39D98A" filter="url(#glow)" text-anchor="middle">
+    <text x="450" y="95" opacity="0">AI Engineer
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2;0.2333;1" values="1;1;0;0"/>
+    </text>
+    <text x="450" y="95" opacity="0">Machine Learning Engineer
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.4722;0.5;0.7222;0.75;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="450" y="95" opacity="0">Building Intelligent Systems
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2222;0.25;0.4722;0.5;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="450" y="95" opacity="0">Turning Ideas Into Reality
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.7222;0.75;0.9722;1" values="0;0;1;1;0"/>
+    </text>
+  </g>
+</svg>
