@@ -24,6 +24,7 @@ jobs:
 
       - name: remove the built-in green progress bar
         run: |
+          sudo chmod -R a+rw dist
           sed -i -E 's#<rect class="u u0"[^/]*/>##g' dist/github-contribution-grid-snake.svg
           sed -i -E 's#<rect class="u u0"[^/]*/>##g' dist/github-contribution-grid-snake-dark.svg
 
