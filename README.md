@@ -47,24 +47,9 @@ flowchart LR
 
 ### Experience
 
-**HCIA AI v4 Certification — NTI** <sub>`Jul 2025 – Aug 2025`</sub>
-- Completed an 80-hour intensive AI program covering Deep Learning, CNN, RNN, and ANN
-- Built an AI Style Transfer project, converting 50+ real photos into 4K output using PyTorch & TensorFlow Hub
-- Participated in 4 competitions with an average model accuracy of 90%
-- Scored 984/1000 in the final HCIA exam
-
-**IoT & Soft Skills Training — NTI** <sub>`Aug 2025 – Sep 2025 · Ongoing`</sub>
-- 120-hour program: 90 hours IoT development + 30 hours soft skills
-- Built a Smart Car Parking System (Python & Arduino) with real-time LED/buzzer alerts and zero parking errors during testing
-
-**IEEE Student Branch Activities**
-- Built CNN models from scratch and via transfer learning, reaching 91% accuracy
-- Presented AI applications to 50+ peers in IEEE workshops
-- Hands-on experience with ANN and RNN models in competitions and team challenges
-
-**Helwan National University** <sub>`Expected 2027`</sub>
-- B.Sc. in Intelligent Systems Engineering — GPA 3.4
-- Coursework: AI, Machine Learning, Deep Learning, CNN, RNN, Embedded Systems, IoT Development
+<div align="center">
+<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/experience-timeline.svg" width="100%"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
@@ -115,21 +100,15 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Omaryone1w1&show_icons=true&theme=dark&hide_border=true&title_color=39D98A&icon_color=39D98A&text_color=ffffff&bg_color=0d1117" />
+<img src="https://github-stats-extended.vercel.app/api?username=Omaryone1w1&show_icons=true&theme=dark&hide_border=true&title_color=39D98A&icon_color=39D98A&text_color=ffffff&bg_color=0d1117" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaryone1w1&layout=compact&theme=dark&hide_border=true&title_color=39D98A&text_color=ffffff&bg_color=0d1117" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omaryone1w1&layout=compact&theme=dark&hide_border=true&title_color=39D98A&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Omaryone1w1&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=FF6B35&currStreakLabel=39D98A" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omaryone1w1&theme=react-dark&bg_color=0d1117&color=39D98A&line=39D98A&point=ffffff" />
 
 </div>
 
@@ -151,10 +130,10 @@ flowchart LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=39D98A)](https://www.linkedin.com/in/omar-mohamed-fathallah-59912b335/)
-[![Email](https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=39D98A)](mailto:omarnasa1w1@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-30363D?style=for-the-badge&logo=kaggle&logoColor=39D98A)](https://www.kaggle.com/omarmohamed1w1)
-[![Resume](https://img.shields.io/badge/Resume-30363D?style=for-the-badge&logo=readdotcv&logoColor=39D98A)](https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/OMAR_MOHAMED_FATHALLAH_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-fathallah-59912b335/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarnasa1w1@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omarmohamed1w1)
+[![Resume](https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/OMAR_MOHAMED_FATHALLAH_CV.pdf)
 
 </div>
 
