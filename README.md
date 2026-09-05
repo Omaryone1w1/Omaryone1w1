@@ -1,8 +1,10 @@
-<div align="center">
+<<div align="center">
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/header-title.svg" width="700"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=1&pause=100000&color=E8E8E8&center=true&vCenter=true&width=750&height=75&lines=Omar+Mohamed+Fathallah" />
 
-<img src="https://komarev.com/ghpvc/?username=Omaryone1w1&label=PROFILE+VIEWS&color=39D98A&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=2600&pause=900&color=6FCF97&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;Building+Intelligent+Systems;Turning+Ideas+Into+Reality" />
+
+<img src="https://komarev.com/ghpvc/?username=Omaryone1w1&label=PROFILE+VIEWS&color=6FCF97&style=flat" />
 
 </div>
 
