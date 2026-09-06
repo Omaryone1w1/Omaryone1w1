@@ -1,22 +1,22 @@
-<svg width="1000" height="8" viewBox="0 0 1000 8" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#c9d1d9" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#ffffff"/>
-      <stop offset="85%" stop-color="#c9d1d9" stop-opacity="0.6"/>
+      <stop offset="12%" stop-color="#8b0000"/>
+      <stop offset="50%" stop-color="#ff2400"/>
+      <stop offset="88%" stop-color="#8b0000"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#9AA5FF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2400" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffb199" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ff2400" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <rect x="0" y="3" width="1000" height="2.5" rx="1.25" fill="url(#line)"/>
+  <rect x="0" y="1" width="1000" height="4" rx="2" fill="url(#base)"/>
 
-  <rect x="-250" y="2" width="250" height="4.5" rx="2" fill="url(#shimmer)">
-    <animate attributeName="x" values="-250;1000" dur="3.5s" repeatCount="indefinite"/>
+  <rect x="-220" y="1" width="220" height="4" rx="2" fill="url(#highlight)">
+    <animate attributeName="x" values="-220;1000;-220" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
   </rect>
 </svg>
