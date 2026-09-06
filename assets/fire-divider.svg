@@ -11,9 +11,7 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect x="0" y="4.25" width="1000" height="1.5" fill="url(#baseline)"/>
-
   <g>
     <animateTransform attributeName="transform" type="translate" values="-80,0;1080,0;1080,0" keyTimes="0;0.7;1" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.68;0.72;1" dur="6s" repeatCount="indefinite"/>
