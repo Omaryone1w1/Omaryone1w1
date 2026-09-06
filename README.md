@@ -8,24 +8,21 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">About Me</h3>
 
 <p align="center">
 AI & Intelligent Systems Engineering student with hands-on experience in Deep Learning, Machine Learning, CNN, RNN, ANN, and IoT projects. I build and debug models from scratch, ship real prototypes, and present results in IEEE workshops and competitions.
 </p>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,tensorflow,pytorch,opencv,arduino,matlab,git,github,vscode" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">Focus Areas</h3>
 
 ```mermaid
@@ -45,16 +42,14 @@ flowchart LR
     style H fill:#0d1117,stroke:#9AA5FF,color:#9AA5FF,stroke-width:2px
 ```
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">Experience</h3>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/experience-timeline.svg" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">Open to Collaboration</h3>
 
 <table align="center">
@@ -96,8 +91,7 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
@@ -114,8 +108,7 @@ flowchart LR
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">Contribution Activity</h3>
 
 <div align="center">
@@ -126,8 +119,7 @@ flowchart LR
 </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">Connect With Me</h3>
 
 <div align="center">
