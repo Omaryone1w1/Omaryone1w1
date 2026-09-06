@@ -2,27 +2,22 @@
   <defs>
     <linearGradient id="baseline" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#3b1d6b"/>
+      <stop offset="50%" stop-color="#30363d"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="outerGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#9d4edd" stop-opacity="0.9"/>
-      <stop offset="45%" stop-color="#7b2ff7" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#7b2ff7" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="innerGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#e0f7ff" stop-opacity="1"/>
-      <stop offset="55%" stop-color="#5ee7ff" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#5ee7ff" stop-opacity="0"/>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect x="0" y="4.25" width="1000" height="1.5" fill="url(#baseline)"/>
 
   <g>
-    <animateMotion path="M 0,5 L 1000,5 L 0,5 Z" dur="7s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear"/>
-    <ellipse rx="70" ry="9" fill="url(#outerGlow)"/>
-    <ellipse rx="30" ry="5" fill="url(#innerGlow)"/>
-    <ellipse rx="8" ry="2" fill="#ffffff"/>
+    <animateTransform attributeName="transform" type="translate" values="-80,0;1080,0;1080,0" keyTimes="0;0.7;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.68;0.72;1" dur="6s" repeatCount="indefinite"/>
+    <ellipse rx="55" ry="7" fill="url(#glow)"/>
+    <ellipse rx="18" ry="2.5" fill="#ffffff"/>
   </g>
 </svg>
