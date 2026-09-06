@@ -1,22 +1,24 @@
-<<div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=1&pause=100000&color=E8E8E8&center=true&vCenter=true&width=750&height=75&lines=Omar+Mohamed+Fathallah" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=1&pause=100000&color=E8E8E8&center=true&vCenter=true&width=650&height=60&lines=Omar+Mohamed+Fathallah" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=2600&pause=900&color=6FCF97&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;Building+Intelligent+Systems;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=2600&pause=900&color=9AA5FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Building+Intelligent+Systems;Turning+Ideas+Into+Reality" />
 
-<img src="https://komarev.com/ghpvc/?username=Omaryone1w1&label=PROFILE+VIEWS&color=6FCF97&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Omaryone1w1&label=PROFILE+VIEWS&color=9AA5FF&style=flat" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### About Me
+<h3 align="center">About Me</h3>
 
+<p align="center">
 AI & Intelligent Systems Engineering student with hands-on experience in Deep Learning, Machine Learning, CNN, RNN, ANN, and IoT projects. I build and debug models from scratch, ship real prototypes, and present results in IEEE workshops and competitions.
+</p>
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,tensorflow,pytorch,opencv,arduino,matlab,git,github,vscode" />
@@ -24,7 +26,7 @@ AI & Intelligent Systems Engineering student with hands-on experience in Deep Le
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### Focus Areas
+<h3 align="center">Focus Areas</h3>
 
 ```mermaid
 flowchart LR
@@ -38,14 +40,14 @@ flowchart LR
     D --> H
     F --> H
     G --> H
-    style A fill:#0d1117,stroke:#39D98A,color:#39D98A
-    style E fill:#0d1117,stroke:#39D98A,color:#39D98A
-    style H fill:#0d1117,stroke:#39D98A,color:#39D98A,stroke-width:2px
+    style A fill:#0d1117,stroke:#9AA5FF,color:#9AA5FF
+    style E fill:#0d1117,stroke:#9AA5FF,color:#9AA5FF
+    style H fill:#0d1117,stroke:#9AA5FF,color:#9AA5FF,stroke-width:2px
 ```
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### Experience
+<h3 align="center">Experience</h3>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/experience-timeline.svg" width="100%"/>
@@ -53,7 +55,7 @@ flowchart LR
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### Open to Collaboration
+<h3 align="center">Open to Collaboration</h3>
 
 <table align="center">
 <tr>
@@ -96,25 +98,25 @@ flowchart LR
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### GitHub Analytics
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Omaryone1w1&show_icons=true&theme=dark&hide_border=true&title_color=39D98A&icon_color=39D98A&text_color=ffffff&bg_color=0d1117" />
+<img src="https://github-stats-extended.vercel.app/api?username=Omaryone1w1&show_icons=true&theme=dark&hide_border=true&title_color=9AA5FF&icon_color=9AA5FF&text_color=ffffff&bg_color=0d1117" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omaryone1w1&layout=compact&theme=dark&hide_border=true&title_color=39D98A&text_color=ffffff&bg_color=0d1117" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omaryone1w1&layout=compact&theme=dark&hide_border=true&title_color=9AA5FF&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Omaryone1w1&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=FF6B35&currStreakLabel=39D98A" />
+<img src="https://streak-stats.demolab.com/?user=Omaryone1w1&theme=dark&hide_border=true&background=0D1117&ring=9AA5FF&fire=FF6B35&currStreakLabel=9AA5FF" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### Contribution Activity
+<h3 align="center">Contribution Activity</h3>
 
 <div align="center">
 <picture>
@@ -126,7 +128,7 @@ flowchart LR
 
 <img src="https://raw.githubusercontent.com/Omaryone1w1/Omaryone1w1/main/assets/fire-divider.svg" width="100%"/>
 
-### Connect With Me
+<h3 align="center">Connect With Me</h3>
 
 <div align="center">
 
